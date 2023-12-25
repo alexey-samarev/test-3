@@ -1,0 +1,1 @@
+name:Вася,group:P33,course:4
